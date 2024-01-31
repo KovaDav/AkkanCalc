@@ -1,0 +1,6 @@
+D:\suli\projects\saját\akkan\AkkanCalculator\AkkanCalculator\bin\Debug\AkkanCalculator.exe
+D:\suli\projects\saját\akkan\AkkanCalculator\AkkanCalculator\bin\Debug\AkkanCalculator.pdb
+D:\suli\projects\saját\akkan\AkkanCalculator\AkkanCalculator\obj\Debug\AkkanCalculator.csproj.AssemblyReference.cache
+D:\suli\projects\saját\akkan\AkkanCalculator\AkkanCalculator\obj\Debug\AkkanCalculator.csproj.CoreCompileInputs.cache
+D:\suli\projects\saját\akkan\AkkanCalculator\AkkanCalculator\obj\Debug\AkkanCalculator.exe
+D:\suli\projects\saját\akkan\AkkanCalculator\AkkanCalculator\obj\Debug\AkkanCalculator.pdb
